@@ -1,0 +1,8 @@
+node_modules/
+_site/
+.githubpage/.cache/
+.obsidian/
+.agents/
+.codex/
+AGENTS.md
+tests/

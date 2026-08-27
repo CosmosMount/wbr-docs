@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.0.9",
+  "site": {
+    "title": "偏置并联构型轮腿机器人开发文档",
+    "baseUrl": "https://cosmosmount.github.io/wbr-docs",
+    "language": "zh-CN"
+  },
+  "content": {
+    "root": ".",
+    "exclude": [
+      "README.md",
+      "node_modules/**",
+      "_site/**"
+    ],
+    "assetExtensions": [
+      ".png",
+      ".jpg",
+      ".jpeg",
+      ".gif",
+      ".webp",
+      ".svg",
+      ".pdf",
+      ".mp3",
+      ".mp4",
+      ".webm"
+    ]
+  },
+  "theme": {
+    "path": ".githubpage/theme"
+  }
+}
